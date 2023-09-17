@@ -18,7 +18,7 @@ def find_unique_inmperative(arr):
 
 
 
-print("Результат: ", find_unique(given_arr))
+print("Результат: ", find_unique_inmperative(given_arr))
 
 from collections import Counter
 
